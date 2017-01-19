@@ -15,7 +15,7 @@ namespace teht12
             int[] lista = new int[5];
             for (int i = 0; i < 5; i++)
             {
-                Console.Write("Give a number > ");
+                Console.Write("Give a number  > ");
                 x = int.Parse(Console.ReadLine());
                 lista[i] = x;
             }
