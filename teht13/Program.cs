@@ -13,7 +13,7 @@ namespace teht13
 
             int x;
             int[] lista = new int[5];
-            Console.WriteLine("Insert five numbers to give points to sky jumper");
+            Console.WriteLine("Insert five numbers to give points to sky jumper (max points is 999)");
             for (int i = 0; i < 5; i++)
             {
                 Console.Write("Give points  > ");
